@@ -7,5 +7,5 @@ A simple python application to delete selected log-groups on Amazon AWS in bulk
 
 ## How to use
 * Log into your aws account using `aws configure`
-* Run the python script and select the log groups you want to delete
-* Press delete
+* Run the python script and select the log groups you want to delete with `python deleteAWSLogGroupUtil.py`
+* Press 'Delete Selected'
