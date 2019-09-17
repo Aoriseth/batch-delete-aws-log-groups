@@ -1,3 +1,8 @@
+<!--
+  Title: Batch Delete AWS Log Groups
+  Description: A simple utility to delete aws log groups in bulk
+  Author: Lennart
+  -->
 # Delete log groups on AWS in bulk
 A simple python application to delete selected log-groups on Amazon AWS in bulk
 
